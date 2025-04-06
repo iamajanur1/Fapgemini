@@ -18,7 +18,7 @@ function renderChapters(storyKey, storyData) {
   let html = `<h3>${storyData.title}</h3>`;
   
   storyData.chapters.forEach((chapter) => {
-    // Split content into paragraphs  to 4
+    // Split content into paragraphs (first 4)
     const paragraphs = chapter.content.split('\n').slice(0, 4);
     html += `
       <div class="chapter-item">
@@ -27,14 +27,24 @@ function renderChapters(storyKey, storyData) {
       </div>
       <div id="chapter-content-${storyKey}-${chapter.id}" class="chapter-content hidden" style="background-color: #000000; color: #ffffff; padding: 20px;">
         <h4 style="font-size: 36px; font-weight: 600; text-align: center; margin-bottom: 20px;">${chapter.title}</h4>
-        <div style="overflow: auto;">
+        
+        <!-- Float image at the top -->
+        <div style="overflow: hidden;">
           <div style="float: right; margin-left: 10px; margin-bottom: 10px;">
             <img src="${chapter.image}" alt="${chapter.title}" style="width: 300px; height: 400px;" />
             <div style="font-size: 14px; font-style: italic; text-align: center; margin-top: 5px;">${chapter.title}</div>
           </div>
-          <p style="font-size: 16px; text-align: justify; font-weight: 300; line-height: 1.5; margin-bottom: 15px; font-family: 'Open Sans', sans-serif;">${paragraphs[0]}</p>
         </div>
-        ${paragraphs.slice(1).map(para => `<p style="font-size: 16px; text-align: justify; font-weight: 300; line-height: 1.5; margin-bottom: 15px; font-family: 'Open Sans', sans-serif;">${para}</p>`).join('')}
+        <div style="clear: both;"></div>
+  
+        <!-- Paragraphs -->
+        ${paragraphs.map(para => `
+          <p style="font-size: 16px; text-align: justify; font-weight: 300; line-height: 1.5; margin-bottom: 15px; font-family: 'Open Sans', sans-serif;">
+            ${para}
+          </p>
+        `).join('')}
+  
+        <!-- Lower image again -->
         <div style="text-align: center; margin-top: 20px;">
           <img src="${chapter.image}" alt="${chapter.title} Scene" style="width: 300px; height: 200px;" />
           <div style="font-size: 14px; font-style: italic; margin-top: 5px;">${chapter.title}</div>
@@ -42,6 +52,7 @@ function renderChapters(storyKey, storyData) {
       </div>
     `;
   });
+  
   
   container.innerHTML = html;
 }
