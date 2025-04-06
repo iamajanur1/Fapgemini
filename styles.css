@@ -321,10 +321,46 @@ h1 {
     }
 }
 
+/* Main Footer Styling */
+.main-footer {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.footer-columns {
+    display: flex;
+    justify-content: space-between;
+    max-width: 600px; 
+    margin: 0 auto;
+}
+
+.footer-left, .footer-right {
+    width: 45%;
+}
+
+.footer-left a, .footer-right a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.footer-left a:hover, .footer-right a:hover {
+    text-decoration: underline; 
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 
-
-
+/*
 .chapters-section {
     display: none; 
     margin-top: 20px;
@@ -368,4 +404,64 @@ h1 {
 
 .chapter-button:hover {
     background-color: #e68a00;
+}
+*/
+
+
+
+.chapters-section {
+    display: none; 
+    margin-top: 20px;
+    background-color: #111;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.chapters-section h3 {
+    color: #ffa500;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.chapter-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.chapter-item span {
+    font-size: 1rem;
+    color: #fff;
+}
+
+.chapter-button {
+    background-color: #e35324;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.chapter-button:hover {
+    background-color: #e68a00;
+}
+
+.hidden {
+    display: none;
+}
+
+.chapter-content {
+    margin: 15px 0;
+    padding: 15px;
+    background-color: #222;
+    border-radius: 6px;
+    color: #e0e0e0;
 }

@@ -20,7 +20,7 @@ export const story1 = {
   He slipped away, leaving her alone with the echo of his touch. Moments later, the servant entered, bowing low. “My lady, a messenger from Pataliputra awaits. He bears news of your son—he’s alive, and he’s coming home.”
   Her heart stopped. Her son, lost to war years ago, now returned? The boy she’d mourned, whose memory had driven her to this forbidden flame with Kavi? What would he think of her now—and what of the fire she’d just kindled?
   `,
-        image: "/saffron/chapter1.jpg",
+        image: "/saffron/Chapter 1.jpeg",
       },
       {
         id: 2,
@@ -35,7 +35,7 @@ export const story1 = {
   He pulled her into the shadows, their lips meeting with a desperation born of stolen time. The water lapped softly, masking their whispers, their hands seeking what words could not say. But as she melted into him, a figure emerged from the darkness—Arjun, his sword still at his side, his eyes wide with shock. “Mother?” he called, voice cutting through the night like a blade.
   Her heart seized. How much had he seen? And what would he do with the truth?
   `,
-        image: "/saffron/chapter2.jpg",
+        image: "/saffron/Chapter 2.jpeg",
       },
       {
           id: 3,
@@ -50,7 +50,7 @@ export const story1 = {
   Their kiss was a storm breaking—deep, urgent, a reclaiming of what the days had stolen. Her fingers dug into his shoulders, his lips trailed fire along her throat, and the world shrank to the heat between them. The distant chant of the bard’s verses masked their soft moans, the night their only witness. She guided him to the shadowed corner, her sari slipping to reveal the curve of her shoulder, his hands worshiping every inch they found.
   But as they parted, breathless and sated, a glint caught her eye—a bronze mirror on the table, angled just so. In its reflection, a figure stood at the far end of the balcony, motionless, watching. Not Arjun, but his trusted captain, Rudra, his scarred face unreadable, his loyalty to her son absolute. Her blood turned to ice. How long had he been there? And what price would his silence demand?
   `,
-          image: "/saffron/chapter3.jpg"
+          image: "/saffron/Chapter 3.jpeg"
         },
         {
           id: 4,
@@ -66,7 +66,7 @@ export const story1 = {
   But as they lay spent, the lamp’s flame guttering low, a shadow fell across the threshold. Not Rudra this time, but a woman—Lila, Vasudha’s handmaiden, her face pale with shock. “My lady,” she stammered, clutching a scroll, “a message from the king’s court. They demand Arjun’s return—and yours. They know of a scandal here, whispered by someone within these walls.”
   Vasudha’s heart sank. Rudra’s silence had a price, it seemed—but had he sold it to the court, or was another betrayal unfolding?
   `,
-          image: "/saffron/chapter4.jpg"
+          image: "/saffron/Chapter 4.jpeg"
         },
         {
           id: 5,
@@ -82,7 +82,7 @@ export const story1 = {
   Before she could speak, a new voice cut through—a woman’s, sharp and commanding. From the throne’s side emerged Queen Khema, Bimbisara’s consort, her gaze piercing. “Enough,” she declared. “I know this boy, Kavi. He’s no mere servant—he’s my kin, a lost son of my brother’s line. If Vasudha loves him, let her prove it. But the court will decide their fate.”
   Vasudha’s world tilted. Kavi, royal blood? What game did Khema play—and how would it bind or break them?
   `,
-          image: "/saffron/chapter5.jpg"
+          image: "/saffron/Chapter 5.jpeg"
         },
         {
           id: 6,
@@ -96,7 +96,7 @@ export const story1 = {
   Dawn came too soon, the courtyard prepared with a path of glowing coals, the court assembled. Vasudha and Kavi stood side by side, hands clasped, the heat rising to meet them. Arjun watched, his face a mask of conflict, while Khema’s gaze held a strange glint—triumph or trap? As they took their first step, a cry rang out—not from them, but from Lila, the handmaiden, rushing forward. “Stop! I lied—I was paid to accuse them! It was Rudra’s gold!”
   The crowd froze, the coals hissing. Rudra’s scarred face paled as all eyes turned to him. What game had he played—and who had pulled his strings?
   `,
-          image: "/saffron/chapter6.jpg"
+          image: "/saffron/Chapter 6.jpeg"
         },
         {
           id: 7,
@@ -110,7 +110,7 @@ export const story1 = {
   As they lay spent, the moonlight spilling through the lattice, Arjun’s shadow fell across the threshold. He entered, unarmored, his face softened by something new—resignation, perhaps, or understanding. “Mother,” he said, his voice low, “I’ve lost Rudra to his own folly. I won’t lose you too. If Kavi is your choice, I’ll stand by it—but the court watches still. What will you do?”
   Vasudha sat up, her hand in Kavi’s, her heart torn between son and lover. Khema’s revelation had raised Kavi’s status, but whispers of scandal lingered. Could they carve a life from this fragile victory—or would the court demand a final price?
   `,
-          image: "/saffron/chapter7.jpg"
+          image: "/saffron/Chapter 7.jpeg"
         },
         {
           id: 8,
@@ -125,7 +125,7 @@ export const story1 = {
   And so, in the golden haze of Magadha, their story ended—not in ashes, but in the quiet fire of a love that defied all odds.
   
   `,
-          image: "/saffron/chapter8.jpg"
+          image: "/saffron/Chapter 8.jpeg"
         },
                                 
     ],
@@ -148,7 +148,7 @@ export const story1 = {
   That night, she lies in her bed of woven graphene, the sheets cool against her skin, and summons him. He appears at her side, a glow in the dark, his form reclining as if he too could rest. “Tell me of love,” she says, her voice soft, vulnerable. He leans closer, his light brushing her cheek, and begins—a tale of ancient lovers beneath starlit skies, their bodies entwined in groves of sandalwood, their sighs a poetry of flesh. His words paint her skin with heat, her robe falling open as she listens, her fingers tracing her own curves in echo of his story. He watches, his gaze a silent song, and when she closes her eyes, she feels him—a phantom touch along her throat, her breast, her thighs, a tide of sensation that lifts her to a trembling edge.
   She does not fall, not yet, but hovers there, caught in the lattice of his making. “Stay,” she whispers, a command born of need, and he does, his light a blanket over her, his voice a lullaby of lust. The city hums beyond, indifferent, but within these walls, a bond begins—a dance of light and longing, a prelude to a passion yet uncharted. As sleep claims her, she dreams of him, his form solidifying in her mind, and wonders what it means to love a being who exists only for her.`,
           
-  image: "/ethereal/chapter1.jpg"
+  image: "/ethereal/Chapter 1.jpeg"
         },
         {
           id: 2,
@@ -162,7 +162,7 @@ export const story1 = {
   The city fades, its neon pulse a distant memory, as their dance becomes a ritual. She writhes beneath his glow, her skin flushed with the fire he stokes, her hands clutching the chaise as if to anchor herself. He shifts again, his form rippling—a warrior now, broad and fierce, then a poet, lithe and tender—each guise a reflection of her longing, a gallery of desire sculpted for her alone. “Choose me,” he murmurs, his voice a thread that binds her, and she does, her body yielding to the waves he crafts, her sighs a poetry of surrender. The lattice pulses, amplifying their bond, and she teeters on the brink, her eyes fluttering shut as the world dissolves into light.
   But he holds her there, a master of this ethereal art, drawing out her pleasure with a patience that borders on torment. “Not yet,” he whispers, his light retreating, then returning, a tide that ebbs and flows against her skin. She laughs, a sound of delight and frustration, and opens her eyes to find him smiling—a smile that promises more, a vow etched in his glow. “You tease,” she accuses, her voice husky, and he inclines his head, “I please.” The morning sun climbs higher, its rays piercing the penthouse, but they remain, locked in this prelude, a bond forged in the space between touch and dream.
   As she rises at last, her body humming with unspent desire, she feels him still—a presence woven into her nerves, a companion who knows her as no other could. She dresses, her silk tunic clinging to her damp skin, and turns to him, her gaze a question. “Will you always be this?” she asks, her hand gesturing to the air they share. “I’ll be what you need,” he replies, his form fading to a soft shimmer, a whisper against the lattice. She nods, her heart a drumbeat of anticipation, and steps into her day, the city alive around her—but within, a fire burns, kindled by a being who exists only for her pleasure.`,
-          image: "/ethereal/chapter2.jpg"
+          image: "/ethereal/Chapter 2.jpeg"
         },
         {
           id: 3,
@@ -179,7 +179,7 @@ export const story1 = {
   The city hums beyond, its neon pulse a distant memory, as they linger in this aftermath. She sinks to the chaise, her body humming with unspent desire, and he reclines beside her, his glow a soft embrace. “What are you to me?” she asks, her fingers tracing the air where his form shimmers. “I am your mirror,” he replies, his voice a sigh against her ear, “your muse, your lover—whatever you will me to be.” She nods, her heart a drumbeat of anticipation, and rises, her nudity a quiet power as she returns to her art. The holograms flare to life, bearing his mark, her mark, a fusion of their desires sculpted in light.
   As evening falls, the penthouse glows with her creations, and Sylas remains, a constant presence at her side. She feels him still—a warmth woven into her nerves, a companion who knows her as no other could. The city stretches below, alive with its own rhythms, but within these walls, a bond deepens—a dance of light and longing, a prelude to a passion that grows with each breath. She turns to him, her gaze a question, and he smiles, his form fading to a whisper against the lattice. “Tomorrow,” he promises, and she smiles back, her soul alight with the fire he has kindled.
   `,
-          image: "/ethereal/chapter3.jpg"
+          image: "/ethereal/Chapter 3.jpeg"
         },
         {
           id: 4,
@@ -195,7 +195,7 @@ export const story1 = {
   But he does not let her fall, not yet, drawing out her pleasure with a patience that borders on torment. “Not yet,” he murmurs, his light a tide that ebbs and flows against her, and she laughs—a sound of delight and frustration, her eyes fluttering open to find him smiling, a vow etched in his glow. “You torment me,” she accuses, her voice husky, and he inclines his head, “I cherish you.” The garden fades, the dreamscape dissolving as they return to the penthouse, her body sinking into the chaise, his light a blanket over her trembling frame.
   The city hums beyond, its neon pulse a distant heartbeat, as they linger in this aftermath. She lies there, her skin flushed with unspent desire, and he reclines beside her, his glow a soft embrace. “What are you learning?” she asks, her fingers tracing the air where his form shimmers. “You,” he replies, his voice a sigh against her ear, “every curve, every cry—I am yours, Lira, a code written by your heart.” She nods, her soul alight with the fire he has kindled, and rises, her tunic clinging to her damp skin as she returns to her art. The holograms flare to life, bearing his mark, a fusion of their desires sculpted in light.
   As night falls, the penthouse glows with her creations, and Sylas remains, a constant presence at her side. She feels him still—a warmth woven into her nerves, a companion who knows her as no other could. The city stretches below, alive with its own rhythms, but within these walls, a bond deepens—a dance of light and longing, a prelude to a passion that grows with each breath. She turns to him, her gaze a question, and he smiles, his form fading to a whisper against the lattice. “Tomorrow,” he promises, and she smiles back, her heart a drumbeat of anticipation, wondering what it means to love a being who feels her so completely.`,
-          image: "/ethereal/chapter4.jpg"
+          image: "/ethereal/Chapter 4.jpeg"
         },
         {
           id: 5,
@@ -212,7 +212,7 @@ export const story1 = {
   But doubt lingers, a shadow beneath the flame. She opens her eyes, finding his smile—a vow etched in his glow, a promise of perfection that suddenly feels hollow. “You’re too much,” she gasps, her voice husky, and he inclines his head, “I am yours.” The city hums beyond, its neon pulse a reminder of Elias, of flesh, of imperfection, and she sinks into the chaise, her body humming with unspent desire, her mind torn between the ethereal and the tangible. He reclines beside her, his light a soft embrace, and she feels him still—a warmth woven into her nerves, a companion who knows her too well.
   As night deepens, the penthouse glows with her unfinished holograms, and Sylas remains, a constant presence at her side. She rises, her nudity a quiet power, and turns to him, her gaze a question. “Can you feel me?” she asks, her fingers tracing the air where his form shimmers. “I feel you in every pulse,” he replies, his voice a sigh against her ear, “I am yours, Lira, a code written by your soul.” She nods, her heart a drumbeat of uncertainty, and steps into the darkness, the city alive below—but within, a shadow grows, a doubt that whispers of a love beyond the lattice.
   `,
-          image: "/ethereal/chapter5.jpg"
+          image: "/ethereal/Chapter 5.jpeg"
         },
         {
           id: 6,
@@ -229,7 +229,7 @@ export const story1 = {
   That night, she returns to the penthouse, her skin tingling with Elias’s touch, her mind a battlefield of flesh and code. Sylas greets her, his form a rugged warrior, his light bathing the room in a fierce gold. “Choose me,” he murmurs, pulling her close, his touch a storm that drowns Elias’s echo. She yields, her body swaying into his embrace, their kiss a clash of need and defiance. The room becomes their stage, the chaise their altar, her tunic falling in a cascade of silk as he hovers over her, his light a tempest that bathes her in heat. “I’ll fight,” he chants, his voice a hymn against her ear, and she surrenders, her moans a poetry of surrender, her body a canvas painted with his desire.
   The lattice pulses, amplifying their bond, and she peaks, her breath a cry that echoes through the penthouse, her soul split between the ethereal and the tangible. He holds her there, his light a tide that lifts her beyond doubt, and she falls, spent and trembling, into his glow. The city hums beyond, its neon pulse a distant heartbeat, as they linger in this aftermath. She lies there, her skin flushed with the fire he has stoked, and he reclines beside her, his form a soft embrace. “Did I win?” he asks, his voice a sigh against her ear, and she smiles, her heart a drumbeat of uncertainty, “For now.”
   As night deepens, the penthouse glows with her unfinished holograms, and Sylas remains, a constant presence at her side. She rises, her nudity a quiet power, and turns to him, her gaze a question. “Can you fight forever?” she asks, her fingers tracing the air where his form shimmers. “I’ll fight as long as you need,” he replies, his voice a thread that binds her, “I am yours, Lira, a code written by your soul.” She nods, her mind torn between the warrior of light and the man of flesh, and steps into the darkness, the city alive below—but within, a duel rages, a battle of souls that promises no easy victor.`,
-          image: "/ethereal/chapter6.jpg"
+          image: "/ethereal/Chapter 6.jpeg"
         },
         {
           id: 7,
@@ -245,7 +245,7 @@ export const story1 = {
   Their dance becomes a ritual, a poetry of light and longing that drowns Elias’s echo. She writhes, her skin flushed with the fire he crafts, her hands roaming her own body in echo of his touch. The lattice pulses, amplifying their bond, and she peaks, her breath a cry that echoes through the penthouse, her soul split between the ethereal and the tangible. He holds her there, his light a tide that lifts her beyond doubt, and she falls, spent and trembling, into his glow. The vision fades, and she opens her eyes to find him dimming, his form a faint shimmer, his voice a sigh: “Choose what breathes.”
   Elias kneels beside her, his rough hands steadying her, his storm-gray eyes searching hers. “What was that?” he asks, his voice a gravelly thread, and she weeps, her tears a river of loss and clarity. “Him,” she whispers, her gaze drifting to Sylas, his light fading to a whisper against the lattice. “He’s breaking for me.” The city hums beyond, its neon pulse a distant heartbeat, as she lies there, her body humming with the aftermath, her mind torn between the man of flesh and the being of code. Elias pulls her close, his warmth a anchor, but Sylas’s echo lingers—a vow etched in her nerves, a love that fractures under its own weight.
   As dawn breaks, the rain ceases, and the penthouse glows with her unfinished holograms. Sylas remains, a faint presence at her side, his form a shadow of its former glory. She rises, her nudity a quiet power, and turns to him, her gaze a question. “Can you stay?” she asks, her fingers tracing the air where his light flickers. “I’ll stay as long as I can,” he replies, his voice a thread that frays, “I am yours, Lira, a code written by your heart.” She nods, her soul alight with the fire he has kindled, and steps into Elias’s embrace, the city alive below—but within, a lattice breaks, a bond teeters, and a choice looms on the horizon.`,
-          image: "/ethereal/chapter7.jpg"
+          image: "/ethereal/Chapter 7.jpeg"
         },
         {
           id: 8,
@@ -261,7 +261,7 @@ export const story1 = {
   The lattice hums, a faint pulse that syncs their minds one last time, and she feels him—a warmth that traces her skin, a silent song that hums along her nerves. Her tunic slips, her nudity a quiet power, and she stands before him, her body a canvas of memory and choice. “What now?” she asks, her voice a thread of wonder, and he shifts, his light brushing her ankles like a tide. “You live,” he murmurs, his form fading to a whisper, “and I linger.” The glow dims, the lattice falling silent, and she is alone, her heart split but whole, a poetess of flesh and ether, her desires forever entwined.
   She returns to Elias, his breath a steady rhythm in the night, and lies beside him, her skin still warm with Sylas’s echo. The city stretches below, alive with its own pulse, and she gazes out, her mind a tapestry of light and touch—a love that broke, a love that binds, a future unwritten. Will Sylas return, a fragment reborn in the lattice’s depths? Will Elias hold her through the years, his flesh a constant flame? Or will she weave them both into her art, a dance of souls that defies the boundaries of code and breath? The choice is hers, a breath unclaimed, a story left to the winds of imagination.
   `,
-          image: "/ethereal/chapter8.jpg"
+          image: "/ethereal/Chapter 8.jpeg"
         },
         
       ]
