@@ -8,43 +8,43 @@
     body {
       margin: 0;
       font-family: 'Roboto', sans-serif;
-      background: #0e0e1b;
-      color: #e0e0e0;
+      background: #0b0b0b;
+      color: #f1f1f1;
       padding: 40px 20px;
     }
 
     .help-container {
       max-width: 950px;
       margin: auto;
-      background: linear-gradient(135deg, #1a1a2f, #2a2a4d);
+      background: #111;
       border-radius: 15px;
       padding: 40px;
-      box-shadow: 0 0 30px rgba(255, 0, 255, 0.2);
-      border: 1px solid #ff00ff;
+      box-shadow: 0 0 30px rgba(255, 255, 255, 0.05);
+      border: 1px solid #333;
     }
 
     h1 {
       font-family: 'Cinzel', serif;
       font-size: 2.8em;
-      color: #ffcc00;
+      color: #fff;
       text-align: center;
       margin-bottom: 10px;
-      text-shadow: 0 0 10px rgba(255, 204, 0, 0.4);
+      text-shadow: 0 0 5px rgba(255, 255, 255, 0.1);
     }
 
     .last-updated {
       text-align: center;
       font-size: 0.9em;
-      color: #ccc;
+      color: #aaa;
       margin-bottom: 30px;
     }
 
     h2 {
-      color: #ff66cc;
+      color: #fff;
       font-family: 'Cinzel', serif;
       margin-top: 35px;
       font-size: 1.6em;
-      border-bottom: 1px solid #444;
+      border-bottom: 1px solid #333;
       padding-bottom: 5px;
     }
 
@@ -55,17 +55,45 @@
     .faq p {
       margin: 6px 0;
       font-size: 1.05em;
+      color: #e0e0e0;
     }
 
     .question {
       font-weight: bold;
-      color: #ffccff;
+      color: #fff;
       margin-top: 20px;
     }
 
     a {
-      color: #ffd9ff;
+      color: #ffffff;
       text-decoration: underline;
+    }
+
+    a:hover {
+      color: #ddd;
+    }
+
+    .nav-bar {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+    }
+
+    .home-link {
+      background: #fff;
+      color: #000;
+      padding: 10px 18px;
+      border-radius: 25px;
+      font-weight: bold;
+      text-decoration: none;
+      box-shadow: 0 4px 15px rgba(255, 255, 255, 0.1);
+      transition: all 0.3s ease;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    .home-link:hover {
+      background: #e0e0e0;
+      color: #000;
     }
 
     @media screen and (max-width: 600px) {
@@ -81,32 +109,13 @@
         font-size: 1.4em;
       }
     }
-    .nav-bar {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-}
-
-.home-link {
-  background: linear-gradient(90deg, #ff00ff, #ff66cc);
-  color: #fff;
-  padding: 10px 18px;
-  border-radius: 25px;
-  font-weight: bold;
-  text-decoration: none;
-  box-shadow: 0 4px 15px rgba(255, 0, 255, 0.3);
-  transition: all 0.3s ease;
-  font-family: 'Roboto', sans-serif;
-}
-
-.home-link:hover {
-  background: linear-gradient(90deg, #ff66cc, #ff00ff);
-  box-shadow: 0 6px 20px rgba(255, 0, 255, 0.6);
-}
-
   </style>
 </head>
 <body>
+  <div class="nav-bar">
+    <a href="index.html" class="home-link">🏠 Home</a>
+  </div>
+
   <div class="help-container">
     <h1>Help Center</h1>
     <div class="last-updated">Last Updated: 1st April 2025</div>
@@ -158,13 +167,8 @@
 
     <h2>6. Contact Support</h2>
     <div class="faq">
-      <p>Email <a href="mailto:smartsiterentals@gmail.com">smartsiterentals@gmail.com</a> for non-urgent inquiries.<br><span style="color: #aaa;">Do NOT send sensitive data (e.g., ID, payment info).</span></p>
+      <p>Email <a href="mailto:smartsiterentals@gmail.com">smartsiterentals@gmail.com</a> for non-urgent inquiries.<br><span style="color: #999;">Do NOT send sensitive data (e.g., ID, payment info).</span></p>
     </div>
   </div>
-  <body>
-    <div class="nav-bar">
-      <a href="index.html" class="home-link">🏠 Home</a>
-    </div>
-  
 </body>
 </html>

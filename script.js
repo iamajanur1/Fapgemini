@@ -3,7 +3,7 @@ import { story1, story2 } from "./stories.js";
 
 setTimeout(() => {
   document.getElementById("ageModal").style.display = "flex";
-}, 2000);
+}, 1000);
 
 window.onload = () => {
   renderChapters("saffron", story1);
